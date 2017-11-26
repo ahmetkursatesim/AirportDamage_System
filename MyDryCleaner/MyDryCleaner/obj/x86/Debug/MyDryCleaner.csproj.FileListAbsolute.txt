@@ -1,0 +1,86 @@
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.exe
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.pdb
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.exe
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.pdb
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.anaSayfa.resources
+c:\users\hp\documents\visual studio 2010\Projects\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniKayit.resources
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.exe
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.pdb
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.exe
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.pdb
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.anaSayfa.resources
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Properties.Resources.resources
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.KayitGoster.resources
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Teslimat.resources
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.TumKayitlar.resources
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniKayitEkle.resources
+C:\Users\Emre\Documents\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.KayitDuzenle.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.exe
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.pdb
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.exe
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.pdb
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.anaSayfa.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.KayitDuzenle.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.KayitGoster.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Properties.Resources.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.TamiratEkle.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Teslimat.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.TumKayitlar.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniKayitEkle.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniSikayet.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniTamirat.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniUrun.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.CalisanSil.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniCalisanEkle.resources
+C:\Users\Emre\Desktop\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Giris.resources
+C:\Users\hp\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.exe
+C:\Users\hp\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.pdb
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.exe
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.pdb
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.exe
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.pdb
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.CalisanSil.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.anaSayfa.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Giris.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.KayitDuzenle.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Properties.Resources.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.TamiratEkle.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Teslimat.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.TumKayitlar.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniCalisanEkle.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniKayitEkle.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniSikayet.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniTamirat.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.YeniUrun.resources
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emre\Dropbox\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.exe
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.pdb
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.CalisanSil.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.anaSayfa.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Properties.Resources.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.csproj.GenerateResource.Cache
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.exe
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\bin\Debug\MyDryCleaner.pdb
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.AddWorker.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.newDamageAdd.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.LogIn.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.UpdateRecord.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.AddRepair.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.Delivery.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.ListDamageRecord.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.NewComplaint.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.NewDamageType.resources
+C:\Users\Akesi\Desktop\MyDryCleaner\MyDryCleaner\MyDryCleaner\obj\x86\Debug\MyDryCleaner.NewRecordTransactions.resources
